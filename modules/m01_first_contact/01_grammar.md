@@ -74,10 +74,14 @@ W-questions begin with an interrogative word in **Position 1**, followed immedia
 - **ß** (*Eszett* / *scharfes S* — pronounced like a sharp "ss", e.g., *heißen*)
 - Key letter names that differ from English: **A** (*ah*), **E** (*eh*), **I** (*ee*), **J** (*yot*), **V** (*fow*), **W** (*veh*), **Y** (*üpsilon*), **Z** (*tset*).
 
-### Numbers 0–100 (Key Patterns)
+### Numbers 0–1,000 (Key Patterns)
 - **0–12:** *null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf*
 - **13–19:** *dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn* (note *sechzehn* drops `-s`, *siebzehn* drops `-en`)
-- **Tens (20–100):** *zwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig, (ein)hundert*
+- **Tens (20–90):** *zwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig* (note *dreißig* uses `-ßig`, not `-zig`)
 - **Compound numbers (21–99):** Spoken "ones + **und** + tens", written as one word:
   - 21 = *einundzwanzig* (note *eins* → *ein-*), 34 = *vierunddreißig*, 58 = *achtundfünfzig*.
+- **Hundreds (100–900):** *(ein)hundert, zweihundert, dreihundert, vierhundert, fünfhundert, sechshundert, siebenhundert, achthundert, neunhundert*
+  - Combined with 1–99 as one word (no *und* required after *hundert*): 105 = *einhundertfünf*, 247 = *zweihundertsiebenundvierzig*, 812 = *achthundertzwölf*.
+- **Thousands (1,000+):** *(ein)tausend, zweitausend, dreitausend...*
+  - 1,999 = *eintausendneunhundertneunundneunzig* (years 1100–1999 are read in hundreds, e.g., 1999 = *neunzehnhundertneunundneunzig*; 2026 = *zweitausendsechsundzwanzig*).
 
